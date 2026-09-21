@@ -1,0 +1,6 @@
+{
+  "name": "AURA Motors",
+  "description": "Experiência digital de hipercarros de luxo com showroom, telemetria detalhada, configurador 3D em tempo real e concierge privado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
